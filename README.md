@@ -8,8 +8,6 @@ Arrays and Linked Lists
 
 Stack and Queue (including Circular and Deque)
 
-Recursion and Backtracking
-
 Trees (Binary Tree, BST, AVL)
 
 Graphs (Adjacency Matrix/List, BFS, DFS, MST)
